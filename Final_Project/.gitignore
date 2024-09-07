@@ -1,0 +1,10 @@
+.env
+calculate_slippage/.git
+*/.env
+.DS_Store
+*/.DS_Store
+*/artifacts/*
+*/cache/*
+*/node_modules/*
+*/coverage/*
+*/coverage.json
