@@ -15,7 +15,7 @@ KEY = ""
 ```
 Where BSCSCAN_API_KEY is the bsc scan api key for gather the abi for the contract, ADDRESS is your wallet account to pay the tx fee, and KEY is the secret key for your account.
 
-## Run Sandwitch attack
+## Run Sandwich attack
 Run `main.py` to start Sandwitch attack on BSC.
 
 ## PPT Link
