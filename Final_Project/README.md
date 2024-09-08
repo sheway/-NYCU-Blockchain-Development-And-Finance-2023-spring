@@ -1,4 +1,4 @@
-# BSC-Sandwitch-BOT
+# BSC-Sandwich-BOT
 
 ## Install requirements
 Use command below to install require packages.
